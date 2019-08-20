@@ -1,15 +1,15 @@
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
+name: "Dr. E's Tech Blog"
+title:  "Dr. E's Tech Blog"
 description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
+meta_description: "Learn about statistical analysis, machine learning, AI, IOT, and design with beginner to advanced tutorials and projects."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'wowthemesnet@gmail.com'
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+email: 'info@elbishlawi.com'
+google_analytics: ''
+disqus: 'dr-es-tech-blog'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
