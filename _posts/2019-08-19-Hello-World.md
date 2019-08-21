@@ -4,6 +4,7 @@ title:  "Hello World"
 author: Dr. E
 categories: [ Jekyll ]
 image: assets/images/6.jpg
+featured: true
 ---
 
 # Welcome to Dr. E's Tech Blog
